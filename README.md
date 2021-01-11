@@ -27,4 +27,5 @@
 
 
 > Deployment
+* Docker
 * AWS EC2
